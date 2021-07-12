@@ -3,3 +3,7 @@
 update several deprecated methods in AST.JLS8 for the version https://github.com/gusijia/crystalsaf-nobindings
 
 original from https://code.google.com/archive/p/crystalsaf/
+
+source code under CystalPlugin/
+
+jar file under plugins/
